@@ -1,16 +1,40 @@
-## Hi there 👋
+Hey, I'm Shaishiv
 
-<!--
-**Shaishiv/Shaishiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Customer Success leader and software engineer. I spent 15 years in enterprise CS at companies like Splunk and Hitachi Vantara, carrying large portfolios, scaling teams, and building operations functions from the ground up.
 
-Here are some ideas to get you started:
+I also write code. Always have.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+What I'm building
+
+Aarikai — an AI-native B2B Customer Success platform.
+
+Most CS software is built by people who have never carried a renewal number. Aarikai is the opposite. It is built by someone who has, and who also builds the product.
+
+Stack: React, TypeScript, Node.js, PostgreSQL, Prisma, Google Gemini. Live in production.
+
+
+Know. Act. Prove.
+
+
+
+
+Background
+
+
+15 years enterprise Customer Success, individual contributor and director level
+Splunk: managed a Tier-1 Fortune 100 portfolio, $600M+ ARR, 120%+ NRR
+Hitachi Vantara: built the CS function from scratch, Director level
+MS in Software Engineering, BS in Civil Engineering
+Currently: Senior CSM at Solo.io
+
+
+
+What I believe
+
+CS is a revenue function. The teams that treat it that way win. The ones that treat it as support with a nicer name eventually get restructured.
+
+The best CSMs I have seen combine technical fluency with business outcome delivery and genuine empathy. That combination is rare and hard to hire for. Aarikai is built to make those people more effective.
+
+
+📍 Chicagoland, IL  |  🌐 app.aarikai.com
